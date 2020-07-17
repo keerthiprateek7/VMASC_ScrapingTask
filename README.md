@@ -93,13 +93,15 @@ Worked on Extracting stock prices and stock news.
 
 2. Extracted company_id using the stock symbols from the companies tables and used the company_id to insert stock prices in the company_stocks table. I have also created a column in the company_stocks table which would automatically store date and time in the record of when the new stock prices are inserted. 
 
+**Stock Price from Yahoo Finance**
+
 ![](images/stockprice.PNG)
 
 3. As the stock prices changes continously, I used the package named **scheduler** to run the program for scraping the stock prices for every 5 seconds and store it in the table
 
 ![](images/stockpricescheduler.PNG)
 
-4. Similary for stock news, I found the pattern in the url link and using that link I looped for all the stock symbols into a list and stored into the company_news table.
+4. Similary for stock news, I found the pattern in the url link and using that link I looped for all the stock symbols into a list and stored into the company_news table.However, I stored only first two news of that stock as I didn't wanted my database to be clumsy. 
 
 **News from Yahoo Fianance**
 
