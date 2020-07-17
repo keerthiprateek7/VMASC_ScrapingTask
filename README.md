@@ -162,7 +162,7 @@ Worked with NodeJs to create an api which runs on server.
 
 ## Future Proposals:
 
-1. Using Python, retrieve the files from mySQL in the form of CSVs. This could be used for generating Visualizations using d3.js.
+1. Using Python, I wanted to generate visualizations for the data stored in MySQL database.
 2. Try to identify the correlation between the news and the stock price for that day.
 3. Make predictions for the stock in future using Machine Learning.
 4. Creating a UI that would provide the updated stock prices and news of a a particular stock when you click on it
