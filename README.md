@@ -95,9 +95,9 @@ Worked on Extracting stock prices and stock news.
 
 ![](images/stockprice.PNG)
 
-3. As the stock prices changes continously, I used the package named scheduler to run the program for scraping the stock prices for every 1 min and store it in the table
+3. As the stock prices changes continously, I used the package named **scheduler** to run the program for scraping the stock prices for every 5 seconds and store it in the table
 
-![](images/scheduler.PNG)
+![](images/stockpricescheduler.PNG)
 
 4. Similary for stock news, I found the pattern in the url link and using that link I looped for all the stock symbols into a list and stored into the company_news table.
 
