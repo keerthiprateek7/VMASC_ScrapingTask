@@ -59,9 +59,11 @@ I created 4 tables (table 1 contains categories, table 2 contains companies and 
 
 1. Extracting Stock Symbol was a challenge because few companies didn't have a stock symbol and few companies were under parent company stocks.
 
-### Can also use: Yahoo Screener and [Screener](www.screener.in) etc.
+### Can also use: [Screener](www.screener.in) etc.
 
-It is like a private company that maintains database for companies and their stock symbols. They also provide historical data which can be used for analysis and stock prediction.
+It is like a private company that maintains database for companies(selected companies) and their stock symbols. They also provide historical data which can be used for analysis and stock prediction. 
+
+[Yahoo](https://finance.yahoo.com/screener/new/) also provides with option of it's own screener where you can create your own list of companies that you wanted to keep track on.
 
 ![screener](images/Screener.png)
 
