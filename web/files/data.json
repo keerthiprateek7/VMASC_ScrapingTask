@@ -1,0 +1,262 @@
+[
+    {
+        "category_id": 13,
+        "category_name": "Distribution and Logistics",
+        "company_name": "Ace Hardware"
+    },
+    {
+        "category_id": 13,
+        "category_name": "Distribution and Logistics",
+        "company_name": "CMA CGM America, Inc."
+    },
+    {
+        "category_id": 13,
+        "category_name": "Distribution and Logistics",
+        "company_name": "Cost Plus, Inc."
+    },
+    {
+        "category_id": 13,
+        "category_name": "Distribution and Logistics",
+        "company_name": "CP&O LLC"
+    },
+    {
+        "category_id": 13,
+        "category_name": "Distribution and Logistics",
+        "company_name": "Dollar Tree Distribution, Inc."
+    },
+    {
+        "category_id": 13,
+        "category_name": "Distribution and Logistics",
+        "company_name": "Maersk Line Limited"
+    },
+    {
+        "category_id": 13,
+        "category_name": "Distribution and Logistics",
+        "company_name": "Navy Exchange Services Command"
+    },
+    {
+        "category_id": 13,
+        "category_name": "Distribution and Logistics",
+        "company_name": "QVC. Suffolk, Inc."
+    },
+    {
+        "category_id": 13,
+        "category_name": "Distribution and Logistics",
+        "company_name": "Target Corporation"
+    },
+    {
+        "category_id": 13,
+        "category_name": "Distribution and Logistics",
+        "company_name": "Zim American Integrated Shipping"
+    },
+    {
+        "category_id": 14,
+        "category_name": "Business and Shared Services",
+        "company_name": "Advanced Data Processing, Inc"
+    },
+    {
+        "category_id": 14,
+        "category_name": "Business and Shared Services",
+        "company_name": "Anthem, Inc."
+    },
+    {
+        "category_id": 14,
+        "category_name": "Business and Shared Services",
+        "company_name": "Atlantic Bay Mortgage Group"
+    },
+    {
+        "category_id": 14,
+        "category_name": "Business and Shared Services",
+        "company_name": "Bank of America"
+    },
+    {
+        "category_id": 14,
+        "category_name": "Business and Shared Services",
+        "company_name": "Capital One"
+    },
+    {
+        "category_id": 14,
+        "category_name": "Business and Shared Services",
+        "company_name": "Dollar Tree Management, Inc"
+    },
+    {
+        "category_id": 14,
+        "category_name": "Business and Shared Services",
+        "company_name": "Ferguson Enterprises"
+    },
+    {
+        "category_id": 14,
+        "category_name": "Business and Shared Services",
+        "company_name": "Geico"
+    },
+    {
+        "category_id": 14,
+        "category_name": "Business and Shared Services",
+        "company_name": "PRA Group, Inc."
+    },
+    {
+        "category_id": 14,
+        "category_name": "Business and Shared Services",
+        "company_name": "New York Times Shared Services"
+    },
+    {
+        "category_id": 15,
+        "category_name": "Advanced Manufacturing",
+        "company_name": "Bauer Compressors, Inc."
+    },
+    {
+        "category_id": 15,
+        "category_name": "Advanced Manufacturing",
+        "company_name": "Canon Virginia, Inc."
+    },
+    {
+        "category_id": 15,
+        "category_name": "Advanced Manufacturing",
+        "company_name": "General Dynamics"
+    },
+    {
+        "category_id": 15,
+        "category_name": "Advanced Manufacturing",
+        "company_name": "Howmet Aerospace"
+    },
+    {
+        "category_id": 15,
+        "category_name": "Advanced Manufacturing",
+        "company_name": "Huntington Ingalls Industries"
+    },
+    {
+        "category_id": 15,
+        "category_name": "Advanced Manufacturing",
+        "company_name": "Liebherr Mining Equipment Co."
+    },
+    {
+        "category_id": 15,
+        "category_name": "Advanced Manufacturing",
+        "company_name": "Measurement Specialties, Inc."
+    },
+    {
+        "category_id": 15,
+        "category_name": "Advanced Manufacturing",
+        "company_name": "STIHL, Inc."
+    },
+    {
+        "category_id": 15,
+        "category_name": "Advanced Manufacturing",
+        "company_name": "Sumitomo Drive Technologies"
+    },
+    {
+        "category_id": 16,
+        "category_name": "Food and Beverage Processing",
+        "company_name": "Anheuser-Busch InBev"
+    },
+    {
+        "category_id": 16,
+        "category_name": "Food and Beverage Processing",
+        "company_name": "Birdsong Peanuts Corporation"
+    },
+    {
+        "category_id": 16,
+        "category_name": "Food and Beverage Processing",
+        "company_name": "High Liner Foods, Inc."
+    },
+    {
+        "category_id": 16,
+        "category_name": "Food and Beverage Processing",
+        "company_name": "Keurig Dr Pepper"
+    },
+    {
+        "category_id": 16,
+        "category_name": "Food and Beverage Processing",
+        "company_name": "Kraft/Heinz Company"
+    },
+    {
+        "category_id": 16,
+        "category_name": "Food and Beverage Processing",
+        "company_name": "La Tienda Specialty Foods"
+    },
+    {
+        "category_id": 16,
+        "category_name": "Food and Beverage Processing",
+        "company_name": "Marva Maid"
+    },
+    {
+        "category_id": 16,
+        "category_name": "Food and Beverage Processing",
+        "company_name": "Massimo Zanetti Beverages, USA"
+    },
+    {
+        "category_id": 16,
+        "category_name": "Food and Beverage Processing",
+        "company_name": "Unilever / Lipton"
+    },
+    {
+        "category_id": 17,
+        "category_name": "Information Technology",
+        "company_name": "Booze Allen Hamilton"
+    },
+    {
+        "category_id": 17,
+        "category_name": "Information Technology",
+        "company_name": "CACI"
+    },
+    {
+        "category_id": 17,
+        "category_name": "Information Technology",
+        "company_name": "General Dynamics"
+    },
+    {
+        "category_id": 17,
+        "category_name": "Information Technology",
+        "company_name": "Lockheed Martin"
+    },
+    {
+        "category_id": 17,
+        "category_name": "Information Technology",
+        "company_name": "Northrop Grumman"
+    },
+    {
+        "category_id": 17,
+        "category_name": "Information Technology",
+        "company_name": "Raytheon"
+    },
+    {
+        "category_id": 17,
+        "category_name": "Information Technology",
+        "company_name": "SAIC"
+    },
+    {
+        "category_id": 17,
+        "category_name": "Information Technology",
+        "company_name": "Serco, Inc."
+    },
+    {
+        "category_id": 17,
+        "category_name": "Information Technology",
+        "company_name": "Valkyrie Enterprises"
+    },
+    {
+        "category_id": 17,
+        "category_name": "Information Technology",
+        "company_name": "WR Systems"
+    },
+    {
+        "category_id": 18,
+        "category_name": "Shipbuilding + Repair",
+        "company_name": "Huntington Ingalls Industries / Newport News Shipbuilding"
+    },
+    {
+        "category_id": 18,
+        "category_name": "Shipbuilding + Repair",
+        "company_name": "Naval Station Norfolk"
+    },
+    {
+        "category_id": 18,
+        "category_name": "Shipbuilding + Repair",
+        "company_name": "Norfolk Naval Shipyard"
+    },
+    {
+        "category_id": 18,
+        "category_name": "Shipbuilding + Repair",
+        "company_name": "Port of Virginia"
+    }
+]
