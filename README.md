@@ -183,7 +183,7 @@ Worked with NodeJs to create an api which runs on server.
 1. Divide the tasks between three major teams – Front End, Back End and Testing.
 2. Front End team works on retrieving the data from the API and displaying on a UI.
 3. Back End team can be further divided to two teams – one team works on designing the database and generating APIs.
-4. The other team scrapes the data from the available resources and store it in a database team. This team could work as a Database Management Team.
+4. The other team scrapes the data from the available resources and store it in a database team.
 5. Testing team for seeing the overall functionality of website.
 6. If you consider future proposals, then two more teams are required. First team will be working on machine learning part where they have to predict the stocksand analyze the trends. Second one will be working on deploying the application on server.
 
