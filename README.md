@@ -146,6 +146,8 @@ Worked with NodeJs to create an api which runs on server.
 
 ![PostmanAPI's](images/apicode.PNG)
 
+![query](images/apiquery.PNG)
+
 ### Outputs Obtained
 
 ![ApiOutput](images/Api.PNG)
