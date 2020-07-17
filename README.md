@@ -109,7 +109,7 @@ Worked on Extracting stock prices and stock news.
 
 ![](images/databasenews.PNG)
 
-**News From Google Finance**
+**News and Price From Google Finance**
 
 Later, I worked on the extracting the news from google finance to extract the news. I haven't inserted this into the database as it already has records of the yahoo finance news so I just showed output just in console.
 
